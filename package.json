@@ -1,8 +1,8 @@
 {
+  "homepage": "http://byteme6.github.io/https://byteme6.github.io/tictactoe/",
   "name": "main",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://byteme6.github.io/tictactoe",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
@@ -19,8 +19,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-"predeploy": "npm run build",
-"deploy": "gh-pages -d build"
+    "pred eploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
