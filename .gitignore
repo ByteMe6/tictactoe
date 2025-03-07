@@ -1,0 +1,7 @@
+# Start Generation Here
+node_modules/
+dist/
+*.log
+.env
+.DS_Store
+# End Generation Here
